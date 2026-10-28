@@ -268,6 +268,7 @@
 - [Marketing Skills](https://github.com/coreyhaines31/marketingskills) - 49 marketing skills for AI agents covering SEO, copywriting, cold email, pricing, CRO, ads, and analytics.
 - [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, Google Ads, and Meta Ads with live data connectors.
 - [agent37-skills-collection](https://github.com/agent37-platform/agent37-skills-collection) - Claude Code plugin marketplace with YC advisor, local review, and related agent plugins.
+- [reddit-marketing-skills](https://github.com/rdoyle99/reddit-marketing-skills) - 10 Reddit marketing skills on live data about which subreddits and threads AI answers cite: research, rules, comments, posts, AI search, listening, and ads.
 - [Agent Skills Hub](https://agentskillshub.top) - Open directory of agent skills and MCP servers with security grades and quality scores.
 - [Remote OpenClaw](https://www.remoteopenclaw.com/skills) - Searchable directory of agent skills and MCP servers across OpenClaw, Hermes, Claude Code, and Codex.
 - [Skillselion](https://skillselion.com) - Curated directory of Claude Code agent skills, MCP servers, and plugin marketplaces.
